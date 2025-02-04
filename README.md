@@ -2,6 +2,7 @@
 
 O projeto foi desenvolvido durante a participação no curso One(Oracle Next Education). O jogo foi criado com programação WEB, e visa sortear um amigo de acordo com os nomes digitados pelo o usuário. 
 
+![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/user-attachments/assets/73fa501f-e349-46ab-a553-84f82be5aa0c)
 
 
 
