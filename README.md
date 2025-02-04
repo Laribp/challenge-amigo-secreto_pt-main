@@ -23,3 +23,4 @@ O projeto foi desenvolvido durante a participação no curso One(Oracle Next Edu
 ## Link para jogar
 
 http://127.0.0.1:5500/challenge-amigo-secreto_pt-main/index.html
+
